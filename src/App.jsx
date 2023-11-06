@@ -1,5 +1,5 @@
 import React from 'react';
-import './global.css';
+
 import { Index } from './pages';
 
 export function App() {
