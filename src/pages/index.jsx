@@ -42,7 +42,3 @@ export default function Index() {
     </div>
   );
 }
-
-function teste() {
-  console.log("teste");
-}
