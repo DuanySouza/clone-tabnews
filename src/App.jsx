@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-import { Index } from './pages';
+import { Index } from "./pages";
 
 export function App() {
   return (
