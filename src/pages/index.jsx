@@ -16,7 +16,7 @@ export default function Index() {
       {isCardOpen ? (
         <img
           style={{ width: "50em" }}
-          src="https://icasebrasil.com.br/cdn/shop/products/euteamodotamanhodadificuldadex1000_1800x1800.png"
+          src="https://i.pinimg.com/originals/25/f3/bb/25f3bbffa2d54b67cef51f853551124a.gif"
           alt="Cartão Fechado"
         />
       ) : (
